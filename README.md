@@ -1,5 +1,5 @@
 # I'm Sky 🌥️
-> A developer Back-End, with 2y/3y of experience. I have some programming skills, I always dedicate myself to that.
+> A Back-End developer, with 2y/3y of experience. I have some programming skills, I always dedicate myself to that.
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skydemondev&show_icons=true)
